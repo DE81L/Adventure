@@ -1,0 +1,14 @@
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\bin\Debug\net6.0\Adventure.exe
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\bin\Debug\net6.0\Adventure.deps.json
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\bin\Debug\net6.0\Adventure.runtimeconfig.json
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\bin\Debug\net6.0\Adventure.dll
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\bin\Debug\net6.0\Adventure.pdb
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.AssemblyInfoInputs.cache
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.AssemblyInfo.cs
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.dll
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\refint\Adventure.dll
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.pdb
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\Adventure.genruntimeconfig.cache
+C:\Users\koren\OneDrive\Рабочий стол\адвенчура\Adventure\Adventure\obj\Debug\net6.0\ref\Adventure.dll
